@@ -1,9 +1,9 @@
 {
   "device": "handsender",
   "available": false,
-  "version": null,
-  "url": null,
-  "sha256": null,
-  "size": null,
-  "notes": "Noch keine getestete Firmware zur Online-Installation freigegeben."
+  "version": "S.0.0.15",
+  "url": "https://github.com/Schmittle/Schmitt-Funksteuerung-Updates/releases/download/S.0.0.15/Handsender_S.0.0.15.ino.1.bin",
+  "sha256": "368ef299d94215eba69d37ee300608a889a16bbaaecbe4a0cf3e02ae59a224e9",
+  "size": 1118784,
+  "notes": "Pre-release: Noch nicht auf ESP32-Hardware getestet; OTA-Freigabe ausstehend."
 }
