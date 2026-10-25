@@ -1,9 +1,9 @@
 {
   "device": "empfaenger",
   "available": false,
-  "version": null,
-  "url": null,
-  "sha256": null,
-  "size": null,
-  "notes": "Noch keine getestete Firmware zur Online-Installation freigegeben."
+  "version": "E.0.0.25",
+  "url": "https://github.com/Schmittle/Schmitt-Funksteuerung-Updates/releases/download/E.0.0.25/Empfaenger_E.0.0.25.ino.1.bin",
+  "sha256": "1385e09f935424b8917c356b9f7b050a338c3e2d62866216a5bd6feb33cbbbc3",
+  "size": 1183440,
+  "notes": "Pre-release: Noch nicht auf ESP32-Hardware getestet; OTA-Freigabe ausstehend."
 }
